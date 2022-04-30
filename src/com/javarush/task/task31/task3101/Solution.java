@@ -8,7 +8,6 @@ import java.nio.file.attribute.BasicFileAttributes;
 import java.util.EnumSet;
 import java.util.Map;
 import java.util.TreeMap;
-import java.util.stream.Stream;
 
 /* 
 Проход по дереву файлов
@@ -16,13 +15,6 @@ import java.util.stream.Stream;
 
 public class Solution {
     public static void main(String[] args) {
-  /*      String pathDirectory = args[0];
-        String pathFile = args[1];
-        File allFilesContent = new File(pathFile);
-        File directory = new File(pathDirectory);
-        File[] files = directory.listFiles();
-
-        FileUtils.isExist();*/
 
     }
 }
